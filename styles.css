@@ -1,0 +1,59 @@
+body{
+    
+    background: #aec3e4; 
+ 
+
+}
+.container{
+
+  background-color: blue;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: inset 1px 1px 50px black;
+  width: 340px;
+  height: 500px;
+    
+  
+  
+}
+ calcBG
+ {
+                   
+          background-color: blue;
+          border-radius: 20px;
+          padding: 20px;
+          margin-top: 50px;
+          margin-bottom: 50px;
+          box-shadow: inset 1px 1px 50px black;
+          
+          
+}
+
+h3{
+    
+    color: white;
+}
+
+input{
+
+  height: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px 2px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 300px;
+}
+
+button{
+    
+    height: 50px;
+    width: 70px;
+    margin: 10px 3px;
+    box-shadow: inset 1px 1px 50px lightblue;
+    border: none;
+    border-style: outset;
+    
+}
