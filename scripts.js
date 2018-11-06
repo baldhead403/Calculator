@@ -6,7 +6,7 @@ function clearScr() {
     document.calc.display.value=""
 }
 function modNum() {
-     
+    
     document.calc.display.value +="%"
 
 }
